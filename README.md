@@ -21,7 +21,7 @@ This project aims to:
 
 ## Live Dashboard
 Access the interactive Tableau dashboard here:
-<a href="">Product Profitability Dashboard
+<a href="https://public.tableau.com/views/ProfitabilityofProductStory_17260054102820/ProfitabilityofProducts?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"> Product Profitability Dashboard<a/>
 
 ## Lessons Learned
 ### Technical Skills
